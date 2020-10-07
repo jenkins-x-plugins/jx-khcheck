@@ -39,11 +39,9 @@ var (
 type Options struct {
 	HealthOptions healthopts.Options
 	Args          []string
-	All           bool
 	AllNamespaces bool
 	Namespace     string
-
-	KubeClient kubernetes.Interface
+	KubeClient    kubernetes.Interface
 }
 
 // NewCmdStatus creates a command object for the command
