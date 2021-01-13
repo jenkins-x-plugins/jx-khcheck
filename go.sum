@@ -377,6 +377,7 @@ github.com/jenkins-x/jx-api/v3 v3.0.1/go.mod h1:T/Q15bSgPAq9+4k5gMZIuVVmj6rfCDqF
 github.com/jenkins-x/jx-api/v3 v3.0.3 h1:jiRlPKn5hebsfHDi+Pq3IPKGPcTnvyfLXTQYuMFrn+A=
 github.com/jenkins-x/jx-api/v3 v3.0.3/go.mod h1:8akIl/53O1P/DfyXz6ZysWl/9AfdVlJpZK/xOajgXos=
 github.com/jenkins-x/jx-api/v4 v4.0.17/go.mod h1:e98SpJGhOodGShusrGhMqSzRsyZbVsPjWGpEQ2hC0Mk=
+github.com/jenkins-x/jx-api/v4 v4.0.19 h1:PQ6Og4pdxIaxBD/g7jg8JE1Ajm/WBDeZO0K457fSAAM=
 github.com/jenkins-x/jx-api/v4 v4.0.19/go.mod h1:e98SpJGhOodGShusrGhMqSzRsyZbVsPjWGpEQ2hC0Mk=
 github.com/jenkins-x/jx-helpers/v3 v3.0.5 h1:XtqnN3TulaedL3zCeLvY8kU41sfHVyA0fuxplfL1RlA=
 github.com/jenkins-x/jx-helpers/v3 v3.0.5/go.mod h1:gwTYDwvCi4qduS2qRSbn6P/isyObDDxmOeM5CTMfn+s=
@@ -396,6 +397,8 @@ github.com/jenkins-x/jx-secret v0.0.164 h1:NHzHzpC4G8IMvEjPWa3QuRTglB+QF+m0KL9UO
 github.com/jenkins-x/jx-secret v0.0.164/go.mod h1:LiAbgafyk+F1mqTxdaB+BdknRwAGoO9mGCbr/apKlAo=
 github.com/jenkins-x/jx-secret v0.0.205 h1:Myds2IhItcAlc8kKe2uEjAHzFEP00BYdNg0NY1O7V/g=
 github.com/jenkins-x/jx-secret v0.0.205/go.mod h1:myE8zZzk+c68oCbPHDmgBp2HS3m+CRkeIfRR5DT6K/k=
+github.com/jenkins-x/jx-secret v0.0.206 h1:rd7iW4poJYgTZjQE3FFlacmmfuebaKW44Eu60vo1pBk=
+github.com/jenkins-x/jx-secret v0.0.206/go.mod h1:a8IJnQYYwQWhptr0Nm2YOpouiXjOejJ8zS4/qZpLOFE=
 github.com/jenkins-x/logrus-stackdriver-formatter v0.2.3 h1:NuRWKUPCEX1wKlXA8ZYSG28qGKd41R7BK11YDQkPwqo=
 github.com/jenkins-x/logrus-stackdriver-formatter v0.2.3/go.mod h1:litPp7VZWDRCl8LvXuqGngy+65kkg/+T23TgFnDmfTk=
 github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
